@@ -4,4 +4,5 @@ A master's project for the course Big Data Programming to implmenting a crawler 
 
 Tkinter (library from Python) to implement the simple UI to allow end users to enter the keywords and hit a button to search for the files.
 BeautifulSoup to implement the crawler part to fetch the relevant data.
+Gensim to implement the Word2Vec feature for the project
 
